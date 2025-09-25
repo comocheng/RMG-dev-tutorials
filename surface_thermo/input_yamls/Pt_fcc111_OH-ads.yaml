@@ -1,0 +1,40 @@
+DFT_binding_energy:
+- 0
+- eV
+adjacency_list: 'HOX
+
+  1 O u0 p2 c0 {2,S} {3,S}
+
+  2 H u0 p0 c0 {1,S}
+
+  3 X u0 p0 c0 {1,S}
+
+  '
+adsorbate_mass:
+- 17.007
+- amu
+composition:
+  C: 0
+  H: 1
+  N: 0
+  O: 1
+frequencies:
+- 28.594792790367535
+- 87.31526133089565
+- 99.07879370066617
+- 450.34417856525477
+- 719.1054704902865
+- 3570.1153267077952
+heat_of_formation_0K:
+- -150.00719800411537
+- kJ/mol
+linear_scaling_binding_atom:
+- -2.479
+- eV
+linear_scaling_gamma(X):
+- 1.0
+linear_scaling_psi:
+- 0
+- eV
+name: OH_ads
+sites: 1

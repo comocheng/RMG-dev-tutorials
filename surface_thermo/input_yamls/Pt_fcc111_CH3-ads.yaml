@@ -1,0 +1,50 @@
+DFT_binding_energy:
+- 0
+- eV
+adjacency_list: 'CH3X
+
+  1 C u0 p0 c0 {2,S} {3,S} {4,S} {5,S}
+
+  2 H u0 p0 c0 {1,S}
+
+  3 H u0 p0 c0 {1,S}
+
+  4 H u0 p0 c0 {1,S}
+
+  5 X u0 p0 c0 {1,S}
+
+  '
+adsorbate_mass:
+- 15.034999999999997
+- amu
+composition:
+  C: 1
+  H: 3
+  N: 0
+  O: 0
+frequencies:
+- 77.27561302874868
+- 131.58588510507724
+- 139.61891204958803
+- 487.44248610923796
+- 646.0072230114488
+- 646.294090460633
+- 1013.2571279448492
+- 1243.7813382033062
+- 1253.0161526268284
+- 2918.817949218316
+- 3027.090175201659
+- 3036.747575035449
+heat_of_formation_0K:
+- 3.1891696008910912
+- kJ/mol
+linear_scaling_binding_atom:
+- -2.479
+- eV
+linear_scaling_gamma(X):
+- 1.0
+linear_scaling_psi:
+- 0
+- eV
+name: CH3_ads
+sites: 1

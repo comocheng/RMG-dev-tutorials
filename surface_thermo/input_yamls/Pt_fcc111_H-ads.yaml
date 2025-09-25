@@ -1,0 +1,35 @@
+DFT_binding_energy:
+- 0
+- eV
+adjacency_list: 'HX
+
+  1 H u0 p0 c0 {2,S}
+
+  2 X u0 p0 c0 {1,S}
+
+  '
+adsorbate_mass:
+- 1.008
+- amu
+composition:
+  C: 0
+  H: 1
+  N: 0
+  O: 0
+frequencies:
+- 436.2487156541682
+- 443.0805748057217
+- 955.5376188210934
+heat_of_formation_0K:
+- -33.95617668589176
+- kJ/mol
+linear_scaling_binding_atom:
+- -2.479
+- eV
+linear_scaling_gamma(X):
+- 1.0
+linear_scaling_psi:
+- 0
+- eV
+name: H_ads
+sites: 1

@@ -1,0 +1,40 @@
+DFT_binding_energy:
+- 0
+- eV
+adjacency_list: 'OCX
+
+  1 O u0 p2 c0 {2,D}
+
+  2 C u0 p0 c0 {1,D} {3,D}
+
+  3 X u0 p0 c0 {2,D}
+
+  '
+adsorbate_mass:
+- 28.009999999999998
+- amu
+composition:
+  C: 1
+  H: 0
+  N: 0
+  O: 1
+frequencies:
+- 111.15085516114348
+- 113.55677460824683
+- 202.48076482123713
+- 204.84825109461798
+- 317.3241514379591
+- 1746.534887365611
+heat_of_formation_0K:
+- -251.627511131564
+- kJ/mol
+linear_scaling_binding_atom:
+- -2.479
+- eV
+linear_scaling_gamma(X):
+- 1.0
+linear_scaling_psi:
+- 0
+- eV
+name: CO_ads
+sites: 1

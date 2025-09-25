@@ -1,0 +1,35 @@
+DFT_binding_energy:
+- 0
+- eV
+adjacency_list: 'CX
+
+  1 C u0 p0 c0 {2,Q}
+
+  2 X u0 p0 c0 {1,Q}
+
+  '
+adsorbate_mass:
+- 12.011
+- amu
+composition:
+  C: 1
+  H: 0
+  N: 0
+  O: 0
+frequencies:
+- 315.3367854836622
+- 558.8704422107805
+- 568.6494697537826
+heat_of_formation_0K:
+- 80.33842107795203
+- kJ/mol
+linear_scaling_binding_atom:
+- -2.479
+- eV
+linear_scaling_gamma(X):
+- 1.0
+linear_scaling_psi:
+- 0
+- eV
+name: C_ads
+sites: 1

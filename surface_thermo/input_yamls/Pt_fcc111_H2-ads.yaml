@@ -1,0 +1,40 @@
+DFT_binding_energy:
+- 0
+- eV
+adjacency_list: 'H2X
+
+  1 H u0 p0 c0 {2,S}
+
+  2 H u0 p0 c0 {1,S}
+
+  3 X u0 p0 c0
+
+  '
+adsorbate_mass:
+- 2.016
+- amu
+composition:
+  C: 0
+  H: 2
+  N: 0
+  O: 0
+frequencies:
+- 64.031319064804
+- 58.88568376039471
+- 72.96345257150702
+- 78.6767583998718
+- 145.3382216128758
+- 4239.113690682064
+heat_of_formation_0K:
+- 2.8303548609560494
+- kJ/mol
+linear_scaling_binding_atom:
+- -2.479
+- eV
+linear_scaling_gamma(X):
+- 1.0
+linear_scaling_psi:
+- 0
+- eV
+name: H2_ads
+sites: 1

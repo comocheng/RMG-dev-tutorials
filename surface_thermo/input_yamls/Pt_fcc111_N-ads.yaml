@@ -1,0 +1,35 @@
+DFT_binding_energy:
+- 0
+- eV
+adjacency_list: 'NX
+
+  1 N u0 p1 c0 {2,T}
+
+  2 X u0 p0 c0 {1,T}
+
+  '
+adsorbate_mass:
+- 14.007
+- amu
+composition:
+  C: 0
+  H: 0
+  N: 1
+  O: 0
+frequencies:
+- 282.24921496464157
+- 432.79046345086397
+- 438.7098399703795
+heat_of_formation_0K:
+- 60.15650231964969
+- kJ/mol
+linear_scaling_binding_atom:
+- -2.479
+- eV
+linear_scaling_gamma(X):
+- 1.0
+linear_scaling_psi:
+- 0
+- eV
+name: N_ads
+sites: 1
